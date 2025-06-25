@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elevate Labs Data Analytics Internship
 
 This repository contains my daily and weekly tasks completed during my internship at Elevate Labs as a Data Analytics Intern.
@@ -19,3 +20,6 @@ Each folder represents weekly work. Inside each, you’ll find individual tasks 
 - Cleaned and prepared data from Excel and CSVs
 - Provided weekly reports to the marketing and product teams
 
+=======
+# Data-Analytics-Internship
+>>>>>>> 8327d6ed9d9b6124a217fec1d54acbf4135f6a02
