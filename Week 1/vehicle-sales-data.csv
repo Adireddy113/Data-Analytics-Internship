@@ -1,0 +1,9 @@
+#u can get the dataset directly from kaggle with this
+
+
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("syedanwarafridi/vehicle-sales-data")
+
+print("Path to dataset files:", path)

@@ -1,0 +1,35 @@
+## Interview Questions Related To Above Task ##
+
+ What are missing values and how do you handle them? 
+
+     --  missing values are also known as noisy data and they can be handled by using dropna or fillna or replace with basic statistics 
+
+
+ How do you treat duplicate records? 
+
+     -- we can use drop_duplicates to remove duplicates and duplicated() to verify
+
+ Difference between dropna() and fillna() in Pandas?
+
+      -- dropna() is used drop the data and gives new data without empty cells
+     -- fillna() is used to replace the empty cells with a specified value
+
+ What is outlier treatment and why is it important? 
+
+      -- outliers refers to the far data points , they can be handleded by basic stats and they improves the accuracy in results
+
+ Explain the process of standardizing data. 
+
+    -- identifying numerical data and applying stats like mean, standard deviation..
+
+ How do you handle inconsistent data formats (e.g., date/time)?
+
+      -- to_numeric or astype
+
+ What are common data cleaning challenges? 
+
+   -- duplicates, inconsistent formats, outliers...
+
+ How can you check data quality?
+
+   -- simply we check by visualization
