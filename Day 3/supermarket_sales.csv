@@ -1,0 +1,201 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,Rating
+INV-1000,B,Mandalay,Normal,Male,Health and beauty,43.71,8,17.48,367.16,03/02/2019,14:38,Credit card,6.7
+INV-1001,B,Mandalay,Normal,Female,Health and beauty,19.0,8,7.6,159.6,01/24/2019,12:21,Ewallet,4.3
+INV-1002,C,Naypyitaw,Normal,Male,Home and lifestyle,74.98,6,22.49,472.37,01/02/2019,14:32,Credit card,5.8
+INV-1003,C,Naypyitaw,Member,Male,Electronic accessories,57.23,9,25.75,540.82,02/18/2019,20:58,Ewallet,6.4
+INV-1004,C,Naypyitaw,Normal,Female,Electronic accessories,14.2,3,2.13,44.73,02/24/2019,13:56,Ewallet,4.3
+INV-1005,C,Naypyitaw,Member,Female,Electronic accessories,64.68,5,16.17,339.57,03/14/2019,16:17,Ewallet,9.7
+INV-1006,B,Mandalay,Member,Female,Fashion accessories,96.91,2,9.69,203.51,01/09/2019,19:52,Credit card,5.4
+INV-1007,C,Naypyitaw,Member,Female,Sports and travel,31.69,7,11.09,232.92,02/13/2019,17:46,Cash,5.0
+INV-1008,B,Mandalay,Member,Male,Home and lifestyle,45.2,2,4.52,94.92,01/04/2019,11:05,Credit card,5.2
+INV-1009,C,Naypyitaw,Member,Male,Sports and travel,61.09,2,6.11,128.29,03/31/2019,11:09,Cash,9.4
+INV-1010,C,Naypyitaw,Member,Male,Food and beverages,63.81,8,25.52,536.0,03/19/2019,16:59,Cash,4.3
+INV-1011,A,Yangon,Member,Female,Electronic accessories,39.28,2,3.93,82.49,02/22/2019,17:25,Cash,9.8
+INV-1012,B,Mandalay,Member,Male,Health and beauty,64.63,9,29.08,610.75,01/29/2019,10:24,Credit card,9.9
+INV-1013,B,Mandalay,Member,Female,Fashion accessories,79.5,8,31.8,667.8,03/29/2019,20:50,Cash,8.2
+INV-1014,A,Yangon,Member,Male,Home and lifestyle,75.61,1,3.78,79.39,01/05/2019,19:38,Ewallet,7.9
+INV-1015,C,Naypyitaw,Member,Female,Electronic accessories,92.35,9,41.56,872.71,03/13/2019,11:32,Cash,4.4
+INV-1016,B,Mandalay,Normal,Female,Health and beauty,37.99,8,15.2,319.12,02/06/2019,12:43,Ewallet,7.8
+INV-1017,C,Naypyitaw,Member,Female,Food and beverages,89.85,1,4.49,94.34,02/16/2019,12:00,Cash,8.3
+INV-1018,A,Yangon,Normal,Male,Fashion accessories,31.24,7,10.93,229.61,01/27/2019,18:14,Cash,6.6
+INV-1019,C,Naypyitaw,Member,Female,Health and beauty,12.29,3,1.84,38.71,03/04/2019,16:48,Ewallet,5.9
+INV-1020,B,Mandalay,Member,Male,Fashion accessories,55.77,5,13.94,292.79,01/23/2019,16:44,Cash,7.2
+INV-1021,B,Mandalay,Member,Female,Electronic accessories,28.28,7,9.9,207.86,02/28/2019,12:21,Credit card,9.3
+INV-1022,A,Yangon,Member,Female,Food and beverages,66.19,9,29.79,625.5,01/06/2019,13:29,Cash,9.3
+INV-1023,C,Naypyitaw,Member,Female,Health and beauty,39.19,7,13.72,288.05,03/30/2019,16:32,Ewallet,5.6
+INV-1024,A,Yangon,Normal,Female,Fashion accessories,68.29,9,30.73,645.34,03/18/2019,18:02,Credit card,4.0
+INV-1025,C,Naypyitaw,Normal,Female,Electronic accessories,55.97,9,25.19,528.92,03/03/2019,14:32,Credit card,4.7
+INV-1026,B,Mandalay,Member,Male,Sports and travel,40.39,6,12.12,254.46,02/01/2019,17:40,Cash,6.4
+INV-1027,B,Mandalay,Member,Male,Home and lifestyle,15.84,4,3.17,66.53,01/12/2019,16:01,Ewallet,8.3
+INV-1028,A,Yangon,Member,Male,Health and beauty,23.33,8,9.33,195.97,03/22/2019,20:48,Cash,9.9
+INV-1029,C,Naypyitaw,Member,Male,Home and lifestyle,46.99,7,16.45,345.38,01/01/2019,12:01,Credit card,7.2
+INV-1030,C,Naypyitaw,Normal,Female,Fashion accessories,50.3,6,15.09,316.89,02/01/2019,16:03,Cash,4.5
+INV-1031,C,Naypyitaw,Normal,Female,Food and beverages,43.27,1,2.16,45.43,02/07/2019,17:04,Credit card,7.8
+INV-1032,A,Yangon,Member,Female,Fashion accessories,67.02,1,3.35,70.37,03/14/2019,20:05,Ewallet,8.2
+INV-1033,A,Yangon,Member,Male,Sports and travel,87.25,4,17.45,366.45,01/19/2019,19:02,Ewallet,8.9
+INV-1034,C,Naypyitaw,Normal,Female,Food and beverages,41.38,7,14.48,304.14,02/21/2019,18:32,Credit card,6.4
+INV-1035,B,Mandalay,Normal,Female,Sports and travel,56.6,8,22.64,475.44,01/01/2019,20:27,Cash,8.4
+INV-1036,B,Mandalay,Normal,Female,Electronic accessories,28.82,3,4.32,90.78,01/07/2019,19:47,Ewallet,7.3
+INV-1037,B,Mandalay,Normal,Male,Electronic accessories,57.67,2,5.77,121.11,01/01/2019,14:36,Credit card,9.3
+INV-1038,B,Mandalay,Normal,Female,Electronic accessories,26.98,9,12.14,254.96,01/19/2019,12:19,Ewallet,9.3
+INV-1039,A,Yangon,Member,Male,Sports and travel,80.19,8,32.08,673.6,03/16/2019,10:07,Ewallet,8.7
+INV-1040,C,Naypyitaw,Member,Male,Health and beauty,70.21,3,10.53,221.16,03/30/2019,12:24,Cash,4.0
+INV-1041,C,Naypyitaw,Member,Male,Sports and travel,24.47,2,2.45,51.39,03/07/2019,15:34,Ewallet,7.9
+INV-1042,A,Yangon,Normal,Male,Electronic accessories,30.18,1,1.51,31.69,03/09/2019,10:13,Ewallet,6.0
+INV-1043,C,Naypyitaw,Member,Female,Fashion accessories,77.18,8,30.87,648.31,01/07/2019,12:16,Ewallet,5.8
+INV-1044,B,Mandalay,Member,Male,Home and lifestyle,58.83,3,8.82,185.31,03/27/2019,16:21,Ewallet,5.5
+INV-1045,A,Yangon,Member,Male,Health and beauty,97.57,3,14.64,307.35,02/23/2019,17:26,Cash,6.6
+INV-1046,C,Naypyitaw,Member,Male,Food and beverages,41.51,1,2.08,43.59,01/28/2019,10:04,Ewallet,5.4
+INV-1047,A,Yangon,Normal,Female,Fashion accessories,54.93,4,10.99,230.71,02/04/2019,10:16,Cash,10.0
+INV-1048,B,Mandalay,Normal,Male,Electronic accessories,52.3,5,13.08,274.58,01/06/2019,12:59,Cash,4.1
+INV-1049,C,Naypyitaw,Normal,Female,Home and lifestyle,93.55,1,4.68,98.23,02/15/2019,14:30,Credit card,9.8
+INV-1050,B,Mandalay,Normal,Female,Electronic accessories,86.77,5,21.69,455.54,02/01/2019,16:32,Credit card,5.9
+INV-1051,C,Naypyitaw,Normal,Female,Sports and travel,25.25,9,11.36,238.61,02/23/2019,19:02,Cash,7.4
+INV-1052,C,Naypyitaw,Normal,Male,Electronic accessories,18.75,6,5.62,118.12,01/23/2019,11:26,Ewallet,5.8
+INV-1053,A,Yangon,Member,Female,Electronic accessories,39.03,8,15.61,327.85,02/02/2019,18:42,Credit card,8.3
+INV-1054,B,Mandalay,Normal,Female,Fashion accessories,59.75,7,20.91,439.16,01/26/2019,12:49,Cash,9.2
+INV-1055,B,Mandalay,Member,Female,Food and beverages,92.19,7,32.27,677.6,02/26/2019,13:44,Credit card,5.2
+INV-1056,C,Naypyitaw,Member,Female,Electronic accessories,16.38,3,2.46,51.6,03/28/2019,11:01,Ewallet,6.6
+INV-1057,C,Naypyitaw,Member,Male,Health and beauty,70.48,3,10.57,222.01,01/25/2019,19:21,Ewallet,7.5
+INV-1058,A,Yangon,Member,Male,Sports and travel,12.75,4,2.55,53.55,02/11/2019,15:14,Credit card,6.2
+INV-1059,C,Naypyitaw,Member,Male,Food and beverages,21.44,1,1.07,22.51,01/08/2019,14:59,Cash,5.3
+INV-1060,B,Mandalay,Member,Female,Sports and travel,66.06,4,13.21,277.45,01/06/2019,13:29,Cash,7.2
+INV-1061,C,Naypyitaw,Member,Male,Health and beauty,67.37,4,13.47,282.95,01/16/2019,11:59,Cash,8.3
+INV-1062,B,Mandalay,Normal,Male,Fashion accessories,13.7,8,5.48,115.08,03/04/2019,12:27,Credit card,8.5
+INV-1063,B,Mandalay,Member,Female,Home and lifestyle,32.58,5,8.14,171.04,03/03/2019,16:08,Ewallet,8.1
+INV-1064,C,Naypyitaw,Normal,Female,Electronic accessories,15.24,1,0.76,16.0,02/03/2019,15:47,Ewallet,5.1
+INV-1065,B,Mandalay,Member,Female,Home and lifestyle,94.12,1,4.71,98.83,01/16/2019,16:04,Cash,7.7
+INV-1066,C,Naypyitaw,Normal,Male,Food and beverages,47.76,3,7.16,150.44,03/27/2019,18:28,Credit card,4.7
+INV-1067,C,Naypyitaw,Normal,Female,Electronic accessories,14.14,1,0.71,14.85,03/03/2019,13:04,Cash,6.8
+INV-1068,C,Naypyitaw,Normal,Female,Food and beverages,18.81,5,4.7,98.75,02/08/2019,13:32,Ewallet,6.8
+INV-1069,C,Naypyitaw,Member,Female,Electronic accessories,68.48,6,20.54,431.42,03/10/2019,13:33,Credit card,5.6
+INV-1070,C,Naypyitaw,Member,Female,Food and beverages,11.38,3,1.71,35.85,02/27/2019,10:55,Ewallet,8.0
+INV-1071,C,Naypyitaw,Normal,Female,Fashion accessories,24.66,8,9.86,207.14,03/21/2019,16:01,Cash,4.2
+INV-1072,C,Naypyitaw,Member,Male,Electronic accessories,62.72,4,12.54,263.42,01/24/2019,11:34,Credit card,7.9
+INV-1073,B,Mandalay,Member,Male,Home and lifestyle,51.24,3,7.69,161.41,02/12/2019,14:11,Ewallet,6.3
+INV-1074,A,Yangon,Member,Female,Food and beverages,96.51,2,9.65,202.67,02/04/2019,16:16,Cash,7.9
+INV-1075,B,Mandalay,Member,Female,Food and beverages,44.69,2,4.47,93.85,01/07/2019,13:57,Cash,8.2
+INV-1076,C,Naypyitaw,Member,Male,Food and beverages,66.6,8,26.64,559.44,02/05/2019,18:20,Cash,9.8
+INV-1077,B,Mandalay,Member,Female,Health and beauty,59.32,5,14.83,311.43,03/14/2019,17:34,Cash,9.9
+INV-1078,C,Naypyitaw,Member,Female,Food and beverages,47.14,2,4.71,98.99,01/24/2019,16:31,Cash,9.2
+INV-1079,C,Naypyitaw,Member,Female,Electronic accessories,48.61,7,17.01,357.28,03/30/2019,12:40,Credit card,6.3
+INV-1080,A,Yangon,Normal,Male,Sports and travel,58.09,4,11.62,243.98,03/30/2019,15:12,Cash,9.4
+INV-1081,B,Mandalay,Member,Male,Fashion accessories,45.03,9,20.26,425.53,01/19/2019,18:06,Ewallet,9.7
+INV-1082,A,Yangon,Normal,Female,Fashion accessories,70.91,4,14.18,297.82,03/24/2019,19:46,Cash,4.5
+INV-1083,B,Mandalay,Member,Female,Food and beverages,18.25,9,8.21,172.46,02/21/2019,20:20,Ewallet,8.5
+INV-1084,B,Mandalay,Normal,Male,Sports and travel,81.24,9,36.56,767.72,02/08/2019,14:41,Credit card,9.8
+INV-1085,A,Yangon,Normal,Female,Fashion accessories,99.63,5,24.91,523.06,02/04/2019,16:28,Cash,6.1
+INV-1086,A,Yangon,Member,Female,Food and beverages,20.54,9,9.24,194.1,03/15/2019,19:43,Credit card,9.2
+INV-1087,A,Yangon,Member,Male,Fashion accessories,85.46,8,34.18,717.86,02/11/2019,18:49,Cash,9.4
+INV-1088,B,Mandalay,Member,Female,Electronic accessories,23.19,5,5.8,121.75,02/07/2019,12:07,Ewallet,6.2
+INV-1089,A,Yangon,Normal,Female,Electronic accessories,43.36,4,8.67,182.11,01/17/2019,16:24,Credit card,7.6
+INV-1090,C,Naypyitaw,Member,Female,Electronic accessories,41.52,3,6.23,130.79,03/02/2019,15:38,Credit card,6.5
+INV-1091,B,Mandalay,Member,Female,Health and beauty,91.57,7,32.05,673.04,03/08/2019,11:27,Cash,7.4
+INV-1092,A,Yangon,Normal,Male,Electronic accessories,76.69,8,30.68,644.2,03/02/2019,18:38,Cash,8.5
+INV-1093,A,Yangon,Normal,Male,Electronic accessories,62.5,9,28.12,590.62,03/04/2019,10:24,Ewallet,9.2
+INV-1094,C,Naypyitaw,Normal,Male,Electronic accessories,30.12,6,9.04,189.76,02/27/2019,14:15,Ewallet,7.2
+INV-1095,B,Mandalay,Normal,Female,Home and lifestyle,99.37,5,24.84,521.69,02/05/2019,12:18,Cash,9.8
+INV-1096,A,Yangon,Member,Female,Fashion accessories,57.08,9,25.69,539.41,02/18/2019,10:52,Ewallet,8.2
+INV-1097,B,Mandalay,Normal,Male,Fashion accessories,44.58,7,15.6,327.66,02/26/2019,20:11,Credit card,9.8
+INV-1098,B,Mandalay,Normal,Female,Sports and travel,15.21,6,4.56,95.82,03/17/2019,17:27,Ewallet,6.0
+INV-1099,C,Naypyitaw,Normal,Male,Sports and travel,25.27,4,5.05,106.13,03/31/2019,17:57,Credit card,5.4
+INV-1100,B,Mandalay,Member,Female,Home and lifestyle,33.93,5,8.48,178.13,02/10/2019,13:26,Credit card,8.2
+INV-1101,A,Yangon,Member,Female,Electronic accessories,58.25,1,2.91,61.16,03/25/2019,12:05,Credit card,9.7
+INV-1102,A,Yangon,Normal,Male,Health and beauty,75.31,9,33.89,711.68,03/07/2019,19:55,Credit card,9.3
+INV-1103,B,Mandalay,Member,Male,Health and beauty,59.64,5,14.91,313.11,02/02/2019,15:00,Ewallet,6.9
+INV-1104,A,Yangon,Member,Female,Electronic accessories,98.68,5,24.67,518.07,01/26/2019,18:21,Cash,9.0
+INV-1105,B,Mandalay,Member,Female,Home and lifestyle,61.22,1,3.06,64.28,01/01/2019,14:47,Cash,4.5
+INV-1106,A,Yangon,Normal,Male,Health and beauty,72.25,5,18.06,379.31,01/05/2019,15:02,Cash,7.3
+INV-1107,B,Mandalay,Member,Male,Health and beauty,79.21,5,19.8,415.85,03/15/2019,19:18,Credit card,5.5
+INV-1108,B,Mandalay,Normal,Male,Health and beauty,50.55,1,2.53,53.08,02/20/2019,13:00,Cash,8.0
+INV-1109,B,Mandalay,Member,Male,Home and lifestyle,65.63,8,26.25,551.29,02/08/2019,19:57,Credit card,7.1
+INV-1110,B,Mandalay,Member,Male,Fashion accessories,79.51,2,7.95,166.97,01/12/2019,10:53,Credit card,9.8
+INV-1111,B,Mandalay,Member,Female,Food and beverages,17.96,9,8.08,169.72,01/17/2019,16:14,Cash,8.7
+INV-1112,B,Mandalay,Normal,Male,Electronic accessories,67.54,3,10.13,212.75,02/07/2019,11:37,Ewallet,7.6
+INV-1113,C,Naypyitaw,Member,Female,Health and beauty,67.3,3,10.09,211.99,03/04/2019,11:51,Ewallet,7.3
+INV-1114,C,Naypyitaw,Member,Male,Food and beverages,50.58,7,17.7,371.76,02/20/2019,10:04,Credit card,8.8
+INV-1115,B,Mandalay,Normal,Female,Home and lifestyle,51.34,1,2.57,53.91,03/15/2019,10:59,Cash,4.4
+INV-1116,A,Yangon,Member,Female,Health and beauty,14.13,6,4.24,89.02,02/22/2019,11:12,Credit card,5.3
+INV-1117,B,Mandalay,Normal,Female,Fashion accessories,62.17,3,9.33,195.84,01/23/2019,16:15,Ewallet,4.9
+INV-1118,C,Naypyitaw,Member,Female,Home and lifestyle,22.49,8,9.0,188.92,01/04/2019,17:03,Ewallet,6.1
+INV-1119,A,Yangon,Normal,Female,Food and beverages,90.71,3,13.61,285.74,01/27/2019,11:57,Ewallet,5.3
+INV-1120,C,Naypyitaw,Member,Female,Food and beverages,83.96,2,8.4,176.32,02/11/2019,15:20,Credit card,7.3
+INV-1121,A,Yangon,Normal,Female,Electronic accessories,58.1,2,5.81,122.01,02/18/2019,19:44,Ewallet,5.9
+INV-1122,A,Yangon,Normal,Female,Electronic accessories,18.31,9,8.24,173.03,03/27/2019,17:29,Ewallet,4.9
+INV-1123,A,Yangon,Member,Male,Health and beauty,43.96,1,2.2,46.16,01/26/2019,13:00,Cash,4.5
+INV-1124,B,Mandalay,Member,Female,Fashion accessories,63.76,4,12.75,267.79,03/20/2019,17:21,Credit card,5.4
+INV-1125,B,Mandalay,Normal,Female,Food and beverages,78.4,8,31.36,658.56,01/02/2019,19:13,Cash,4.9
+INV-1126,B,Mandalay,Member,Female,Home and lifestyle,21.98,3,3.3,69.24,01/23/2019,20:46,Cash,4.2
+INV-1127,C,Naypyitaw,Normal,Female,Sports and travel,88.05,6,26.41,554.71,01/15/2019,18:54,Cash,6.3
+INV-1128,A,Yangon,Member,Male,Health and beauty,11.81,9,5.31,111.6,01/17/2019,16:21,Cash,6.0
+INV-1129,A,Yangon,Normal,Female,Home and lifestyle,20.78,1,1.04,21.82,01/13/2019,13:24,Ewallet,8.1
+INV-1130,B,Mandalay,Member,Female,Fashion accessories,81.03,2,8.1,170.16,03/27/2019,11:46,Cash,8.5
+INV-1131,A,Yangon,Normal,Female,Health and beauty,48.85,3,7.33,153.88,02/11/2019,18:36,Cash,6.2
+INV-1132,A,Yangon,Normal,Female,Food and beverages,68.13,2,6.81,143.07,02/28/2019,17:58,Credit card,9.9
+INV-1133,A,Yangon,Member,Female,Home and lifestyle,64.52,1,3.23,67.75,02/22/2019,15:20,Cash,4.9
+INV-1134,A,Yangon,Member,Female,Electronic accessories,32.14,4,6.43,134.99,03/16/2019,17:54,Ewallet,9.1
+INV-1135,B,Mandalay,Member,Female,Electronic accessories,14.65,8,5.86,123.06,02/05/2019,17:30,Credit card,9.4
+INV-1136,A,Yangon,Normal,Female,Fashion accessories,61.84,4,12.37,259.73,03/20/2019,15:53,Ewallet,5.5
+INV-1137,B,Mandalay,Member,Female,Electronic accessories,25.38,3,3.81,79.95,03/03/2019,18:01,Ewallet,7.3
+INV-1138,A,Yangon,Member,Male,Home and lifestyle,61.45,3,9.22,193.57,02/14/2019,14:05,Credit card,9.8
+INV-1139,A,Yangon,Normal,Male,Food and beverages,73.99,4,14.8,310.76,01/20/2019,10:11,Credit card,4.7
+INV-1140,B,Mandalay,Normal,Male,Fashion accessories,64.96,6,19.49,409.25,02/06/2019,20:35,Ewallet,5.9
+INV-1141,A,Yangon,Normal,Female,Food and beverages,63.45,6,19.04,399.74,02/19/2019,17:09,Cash,7.3
+INV-1142,B,Mandalay,Normal,Female,Food and beverages,59.4,2,5.94,124.74,01/13/2019,17:01,Cash,4.5
+INV-1143,B,Mandalay,Normal,Female,Health and beauty,22.49,9,10.12,212.53,01/17/2019,18:10,Credit card,6.8
+INV-1144,A,Yangon,Member,Male,Home and lifestyle,64.55,3,9.68,203.33,02/18/2019,14:59,Cash,9.8
+INV-1145,B,Mandalay,Normal,Male,Home and lifestyle,21.19,8,8.48,178.0,03/16/2019,18:33,Cash,5.1
+INV-1146,A,Yangon,Normal,Male,Fashion accessories,15.98,8,6.39,134.23,03/05/2019,15:59,Credit card,9.1
+INV-1147,C,Naypyitaw,Normal,Female,Home and lifestyle,22.58,9,10.16,213.38,01/14/2019,12:20,Ewallet,5.1
+INV-1148,B,Mandalay,Member,Male,Fashion accessories,31.21,4,6.24,131.08,03/30/2019,19:24,Ewallet,8.1
+INV-1149,C,Naypyitaw,Normal,Male,Food and beverages,50.68,8,20.27,425.71,01/14/2019,12:37,Cash,7.2
+INV-1150,C,Naypyitaw,Member,Female,Food and beverages,49.49,1,2.47,51.96,01/25/2019,10:32,Cash,6.3
+INV-1151,A,Yangon,Member,Male,Fashion accessories,57.87,5,14.47,303.82,02/20/2019,16:50,Ewallet,6.6
+INV-1152,C,Naypyitaw,Member,Male,Food and beverages,39.95,3,5.99,125.84,03/13/2019,19:51,Cash,8.8
+INV-1153,B,Mandalay,Normal,Male,Sports and travel,65.81,4,13.16,276.4,01/27/2019,13:28,Cash,4.9
+INV-1154,A,Yangon,Member,Male,Health and beauty,38.05,5,9.51,199.76,01/27/2019,16:32,Ewallet,4.2
+INV-1155,A,Yangon,Normal,Female,Health and beauty,61.29,5,15.32,321.77,03/15/2019,10:53,Cash,8.9
+INV-1156,C,Naypyitaw,Member,Female,Electronic accessories,19.96,4,3.99,83.83,03/29/2019,13:55,Ewallet,7.0
+INV-1157,A,Yangon,Normal,Male,Home and lifestyle,58.59,4,11.72,246.08,03/17/2019,11:26,Credit card,7.8
+INV-1158,C,Naypyitaw,Member,Male,Home and lifestyle,72.46,4,14.49,304.33,01/26/2019,20:26,Cash,6.1
+INV-1159,C,Naypyitaw,Normal,Female,Home and lifestyle,26.34,8,10.54,221.26,02/07/2019,15:07,Credit card,6.5
+INV-1160,C,Naypyitaw,Member,Male,Food and beverages,35.91,8,14.36,301.64,03/03/2019,11:24,Ewallet,5.5
+INV-1161,C,Naypyitaw,Member,Male,Health and beauty,75.35,4,15.07,316.47,03/09/2019,14:55,Credit card,4.1
+INV-1162,B,Mandalay,Member,Male,Fashion accessories,68.62,1,3.43,72.05,01/31/2019,19:08,Ewallet,6.5
+INV-1163,B,Mandalay,Normal,Female,Food and beverages,76.28,8,30.51,640.75,02/10/2019,15:10,Ewallet,6.7
+INV-1164,C,Naypyitaw,Normal,Male,Food and beverages,20.19,5,5.05,106.0,03/31/2019,13:53,Ewallet,9.0
+INV-1165,B,Mandalay,Normal,Female,Food and beverages,39.89,6,11.97,251.31,02/24/2019,12:39,Credit card,7.6
+INV-1166,C,Naypyitaw,Normal,Female,Food and beverages,44.14,5,11.04,231.74,01/09/2019,19:51,Cash,8.7
+INV-1167,B,Mandalay,Normal,Female,Health and beauty,64.33,3,9.65,202.64,03/04/2019,13:24,Cash,9.2
+INV-1168,A,Yangon,Member,Female,Home and lifestyle,93.07,7,32.57,684.06,03/23/2019,20:33,Credit card,9.5
+INV-1169,B,Mandalay,Member,Male,Sports and travel,62.84,3,9.43,197.95,02/23/2019,17:24,Credit card,7.0
+INV-1170,C,Naypyitaw,Member,Male,Fashion accessories,47.7,8,19.08,400.68,02/02/2019,10:28,Ewallet,7.5
+INV-1171,C,Naypyitaw,Normal,Male,Food and beverages,66.9,2,6.69,140.49,03/26/2019,10:06,Credit card,9.9
+INV-1172,C,Naypyitaw,Member,Female,Electronic accessories,51.31,4,10.26,215.5,03/27/2019,17:48,Credit card,5.8
+INV-1173,B,Mandalay,Member,Male,Fashion accessories,37.89,7,13.26,278.49,02/20/2019,20:55,Ewallet,9.4
+INV-1174,C,Naypyitaw,Member,Female,Health and beauty,28.46,1,1.42,29.88,02/14/2019,17:18,Cash,4.4
+INV-1175,B,Mandalay,Member,Male,Home and lifestyle,79.8,2,7.98,167.58,03/07/2019,15:27,Ewallet,6.9
+INV-1176,A,Yangon,Normal,Female,Health and beauty,54.73,3,8.21,172.4,03/04/2019,13:00,Cash,6.0
+INV-1177,C,Naypyitaw,Member,Female,Health and beauty,16.8,3,2.52,52.92,02/01/2019,19:09,Ewallet,9.4
+INV-1178,A,Yangon,Member,Female,Food and beverages,57.39,1,2.87,60.26,03/28/2019,16:27,Cash,9.0
+INV-1179,C,Naypyitaw,Normal,Male,Food and beverages,88.03,8,35.21,739.45,03/06/2019,18:54,Cash,5.5
+INV-1180,C,Naypyitaw,Normal,Male,Food and beverages,27.65,8,11.06,232.26,02/23/2019,18:46,Cash,7.4
+INV-1181,B,Mandalay,Member,Male,Health and beauty,89.87,8,35.95,754.91,02/03/2019,12:31,Cash,9.9
+INV-1182,A,Yangon,Normal,Male,Electronic accessories,64.29,4,12.86,270.02,02/06/2019,15:20,Credit card,6.4
+INV-1183,A,Yangon,Member,Female,Sports and travel,39.16,2,3.92,82.24,01/07/2019,19:06,Credit card,8.4
+INV-1184,B,Mandalay,Normal,Male,Electronic accessories,86.33,3,12.95,271.94,02/05/2019,11:01,Credit card,9.5
+INV-1185,C,Naypyitaw,Member,Male,Sports and travel,66.23,2,6.62,139.08,03/08/2019,16:54,Credit card,5.6
+INV-1186,A,Yangon,Normal,Female,Health and beauty,66.17,6,19.85,416.87,01/09/2019,11:52,Cash,5.8
+INV-1187,C,Naypyitaw,Normal,Male,Health and beauty,95.36,6,28.61,600.77,01/24/2019,10:09,Cash,7.4
+INV-1188,A,Yangon,Normal,Male,Home and lifestyle,98.68,7,34.54,725.3,03/22/2019,11:50,Credit card,7.1
+INV-1189,C,Naypyitaw,Normal,Female,Sports and travel,76.75,2,7.68,161.18,01/25/2019,16:08,Cash,4.8
+INV-1190,A,Yangon,Normal,Female,Health and beauty,85.14,4,17.03,357.59,01/26/2019,19:28,Cash,5.0
+INV-1191,C,Naypyitaw,Member,Female,Home and lifestyle,34.51,6,10.35,217.41,01/18/2019,14:41,Ewallet,7.5
+INV-1192,C,Naypyitaw,Member,Female,Health and beauty,34.66,1,1.73,36.39,02/06/2019,18:37,Cash,9.0
+INV-1193,C,Naypyitaw,Normal,Male,Food and beverages,28.58,6,8.57,180.05,03/26/2019,20:56,Ewallet,5.6
+INV-1194,B,Mandalay,Member,Male,Food and beverages,75.9,2,7.59,159.39,01/12/2019,18:52,Cash,5.1
+INV-1195,C,Naypyitaw,Member,Male,Home and lifestyle,92.3,5,23.08,484.58,03/03/2019,19:45,Credit card,4.3
+INV-1196,A,Yangon,Normal,Male,Health and beauty,24.97,1,1.25,26.22,02/20/2019,14:35,Credit card,8.6
+INV-1197,A,Yangon,Normal,Male,Fashion accessories,16.14,8,6.46,135.58,01/11/2019,13:48,Cash,8.3
+INV-1198,A,Yangon,Member,Female,Health and beauty,64.94,6,19.48,409.12,02/24/2019,17:53,Cash,4.8
+INV-1199,B,Mandalay,Member,Male,Home and lifestyle,53.54,4,10.71,224.87,01/20/2019,12:34,Cash,9.0
