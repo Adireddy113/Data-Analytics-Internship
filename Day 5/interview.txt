@@ -1,0 +1,56 @@
+
+### 1. What is EDA and why is it important?**
+
+EDA stands for Exploratory Data Analysis. It’s basically the first step we take after getting a dataset. The main goal is to understand the data — like what's in it, how it's structured, and if there are any missing values or weird outliers.
+
+It's important because without doing EDA, we might miss issues in the data or make wrong assumptions. It also helps us figure out which features are important and what kind of patterns or relationships exist before jumping into modeling.
+
+
+
+### 2. Which plots do you use to check correlation?
+
+To check correlation between numerical columns, I usually use a **heatmap**, which shows a grid of values between -1 and 1 to show how strongly things are related. If two columns have a correlation close to 1 or -1, that means they move together.
+
+Apart from that, **pairplots** are helpful too — they show scatter plots between all numeric columns, so we can actually see the relationships.
+
+
+
+### 3. How do you handle skewed data?
+
+If a column is skewed (for example, fares in the Titanic dataset), I first visualize it using a histogram or boxplot. If it’s too skewed, especially on the right side, I try a **log transformation** to make it more normal.
+
+In some cases, I might **remove outliers** using IQR or **group values** into bins. It depends on how I want to use the data later — especially if I'm preparing it for machine learning.
+
+
+
+### 4. How to detect multicollinearity?
+
+Multicollinearity means some columns are strongly related to each other, which can mess up model performance. I usually check the **correlation heatmap** first — if two columns have a correlation above 0.8 or 0.9, that's a red flag.
+
+If I want to be more accurate, I use **VIF (Variance Inflation Factor)**. It tells me how much a feature is being explained by other features. If VIF is too high, like above 5 or 10, I consider dropping or combining that feature.
+
+
+
+### 5. What are univariate, bivariate, and multivariate analyses?
+
+* **Univariate** means analyzing one column — like checking the distribution of Age.
+* **Bivariate** means comparing two columns — for example, checking survival rate by gender.
+* **Multivariate** means looking at three or more columns at the same time — like plotting Age vs Fare and coloring by Survival.
+
+
+
+### 6. Difference between heatmap and pairplot?
+
+A **heatmap** is used mostly to show correlation between numeric columns. It’s a color-coded square matrix, and we can quickly see which features are positively or negatively related.
+
+A **pairplot** is more visual — it gives scatter plots and histograms for multiple features at once. It's especially helpful when I want to explore relationships between variables in more detail, with actual data points.
+
+
+
+### 7. How do you summarize your insights?
+
+After finishing the EDA, I always write down the key points I observed. I include:
+
+* Which features had strong influence on the target variable
+* What trends I noticed 
+* If there were outliers or missing values
